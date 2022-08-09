@@ -20,7 +20,7 @@
 ---
 
 <div align="left">
-    <h3>Languajes and Tools 🛠</h3>
+    <h3>Languajes and Tools 🔨</h3>
     <img src="https://cdn-icons-png.flaticon.com/512/174/174854.png" alt="" width="40" height="40">
     <img src="https://icons.iconarchive.com/icons/martz90/hex/512/css-3-icon.png" alt="" width="40" height="40">
     <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/javascript_original_logo_icon_146455.png" alt="" width="40" height="40">
@@ -41,4 +41,10 @@
 </div>
 
 ---
-### My Stats
+### My Stats 📊
+
+[![AlexisYusti18](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexisYusti18&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+![AlexisYusti18 GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexisYusti18&show_icons=true&theme=radical)
+
+
