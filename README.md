@@ -5,8 +5,18 @@
 </div>
 <div align="center">
     <a href="https://www.linkedin.com/in/alexisyusti">
-        <img src="https://blog.waalaxy.com/wp-content/uploads/2021/01/Linkedin-Logo-2048x1280.png" alt="Linkedin" width='100'>
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
+    <a href="mailto:alexisyusti18@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    </a>
+    <a href="https://www.instagram.com/ale.yusti/">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+    </a>
+    <a href="https://discord.gg/uKSc6KNX">
+        <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
+    </a>
+    ---
     <p align="center">
         <img align="center" src="https://profile-counter.glitch.me/AlexisYusti18/count.svg"/>
     </p>
