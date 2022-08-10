@@ -22,7 +22,7 @@
     <p>
         <img align="center" src="https://profile-counter.glitch.me/AlexisYusti18/count.svg"/>
     </p>
-    <img src="https://img.shields.io/github/watchers/AlexisYusti18/AlexisYusti18.svg"/>
+    <!-- <img src="https://img.shields.io/github/watchers/AlexisYusti18/AlexisYusti18.svg"/> -->
 </div>    
 
 ---
