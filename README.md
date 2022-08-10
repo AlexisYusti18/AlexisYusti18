@@ -1,6 +1,6 @@
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="100%" height="400"/>
-    <h1 align="center">Hi there 👋</h1>
+    <h1 align="center">Hi👋</h1>
     <h3 align="center">FullStack MERN Developer Jr</h3>
 </div>
 <div align="center">
@@ -16,7 +16,6 @@
     <a href="https://discord.gg/uKSc6KNX">
         <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
     </a>
-    ---
     <p align="center">
         <img align="center" src="https://profile-counter.glitch.me/AlexisYusti18/count.svg"/>
     </p>
