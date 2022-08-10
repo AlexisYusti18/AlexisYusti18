@@ -24,23 +24,20 @@
 
 <div align="left">
     <h3>Languajes and Tools 🔨</h3>
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174854.png" alt="" width="40" height="40">
-    <img src="https://icons.iconarchive.com/icons/martz90/hex/512/css-3-icon.png" alt="" width="40" height="40">
-    <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/javascript_original_logo_icon_146455.png" alt="" width="40" height="40">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/602px-Bootstrap_logo.svg.png" alt="" width="40" height="40">
-    <img src="https://seeklogo.com/images/G/google-fonts-logo-185D843C0C-seeklogo.com.png" alt="" width="40" height="40">
-    <img src="https://cdn-icons-png.flaticon.com/512/103/103093.png" alt="" width="40" height="40">
-    <img src="https://cdn-icons-png.flaticon.com/512/136/136525.png" alt="" width="40" height="40">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="" width="40" height="40">
-    <img src="https://img.icons8.com/color/480/mongodb.png" alt="" width="40" height="40">
-    <img src="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png" alt="" width="40" height="40">
-    <img src="https://cdn-icons-png.flaticon.com/512/919/919825.png" alt="" width="40" height="40">
-    <img src="https://assets.stickpng.com/images/5848309bcef1014c0b5e4a9a.png" alt="" width="40" height="40">
-    <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postman-icon.png" alt="" width="40" height="40">
-    <img src="https://cdn1.iconfinder.com/data/icons/soleicons-fill-vol-1/64/reactjs_javascript_library_atom_atomic_react-512.png" alt="" width="40" height="40">
-    <img src="https://user-images.githubusercontent.com/8939680/57233884-20344080-6fe5-11e9-8df3-0df1282e1574.png" alt="" width="40" height="40">
-    <img src="https://assets.stickpng.com/images/58480873cef1014c0b5e48ea.png" alt="" width="40" height="40">
-    <!-- <img src="" alt="" width="40" height="40"> -->
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"  width="40" height="40"/> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/>
+    <img src="https://www.enfoquegaussiano.com/wp-content/uploads/Google-Fonts-Logo.png" width="70" height="40"/>
+    <img src="https://miro.medium.com/max/440/1*J3G3akaMpUOLegw0p0qthA.png" width="70" height="40"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/136/136525.png" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"  width="40" height="40"/>
+    <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postman-icon.png" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/kristerkari/react-native-svg-transformer/master/images/react-native-logo.png" width="40" height="50"/>
 </div>
 
 ---
