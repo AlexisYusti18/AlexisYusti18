@@ -64,4 +64,7 @@
 
 ![AlexisYusti18 GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexisYusti18&theme=blue-green)
 
+### Github trophies🏆
+[![trophy](https://github-profile-trophy.vercel.app/?username=AlexisYusti18&ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 
