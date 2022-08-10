@@ -19,7 +19,10 @@
 </div>
 <div align="center">
     <img src="https://img.shields.io/github/followers/AlexisYusti18.svg?style=social&label=Follow&maxAge=2592000"/>
-    <img align="center" src="https://profile-counter.glitch.me/AlexisYusti18/count.svg"/>
+    <p>
+        <img align="center" src="https://profile-counter.glitch.me/AlexisYusti18/count.svg"/>
+    </p>
+    <img src="https://img.shields.io/github/watchers/AlexisYusti18/AlexisYusti18.svg"/>
 </div>    
 
 ---
