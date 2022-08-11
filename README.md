@@ -19,11 +19,10 @@
 </div>
 <div align="center">
     <img src="https://img.shields.io/github/followers/AlexisYusti18.svg?style=social&label=Follow&maxAge=2592000"/>
-    <p>
-        <img align="center" src="https://profile-counter.glitch.me/AlexisYusti18/count.svg"/>
-    </p>
-    <!-- <img src="https://img.shields.io/github/watchers/AlexisYusti18/AlexisYusti18.svg"/> -->
-</div>    
+
+![AlexisYusti18](https://komarev.com/ghpvc/?username=AlexisYusti18-github-AlexisYusti18)
+</div>
+
 
 ---
 ### About Me 🧑
