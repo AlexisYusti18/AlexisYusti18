@@ -19,8 +19,6 @@
 </div>
 <div align="center">
     <img src="https://img.shields.io/github/followers/AlexisYusti18.svg?style=social&label=Follow&maxAge=2592000"/>
-
-![AlexisYusti18](https://komarev.com/ghpvc/?username=AlexisYusti18-github-AlexisYusti18)
 </div>
 
 
