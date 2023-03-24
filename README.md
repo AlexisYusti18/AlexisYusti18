@@ -1,7 +1,7 @@
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="100%" height="400"/>
-    <h1 align="center">Hi👋</h1>
-    <h3 align="center">FullStack MERN Developer Jr</h3>
+    <h1 align="center">👋</h1>
+    <h3 align="center">FullStack MERN Developer</h3>
 </div>
 <div align="center">
     <a href="https://www.linkedin.com/in/alexisyusti">
